@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bira.Domain.Tests", "Bira.Domain.Tests\Bira.Domain.Tests.csproj", "{D7B32E89-2657-40F8-AD96-61AC0EC32711}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bira.Domain", "Bira.Domain\Bira.Domain.csproj", "{77311A30-4DF7-4076-8EB9-847AD7ADC2E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7B32E89-2657-40F8-AD96-61AC0EC32711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B32E89-2657-40F8-AD96-61AC0EC32711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B32E89-2657-40F8-AD96-61AC0EC32711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B32E89-2657-40F8-AD96-61AC0EC32711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77311A30-4DF7-4076-8EB9-847AD7ADC2E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77311A30-4DF7-4076-8EB9-847AD7ADC2E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77311A30-4DF7-4076-8EB9-847AD7ADC2E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77311A30-4DF7-4076-8EB9-847AD7ADC2E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {072079C0-AD5C-45CA-B428-4029E50C4DE8}
+	EndGlobalSection
+EndGlobal
